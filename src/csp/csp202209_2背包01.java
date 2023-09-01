@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @date 2023年08月29日 18:34
  * Description: 递归求数组中和大于x的最小集合
  */
-public class csp202209_2 {
+public class csp202209_2背包01 {
 
     public static void main(String[] args) {
         //动态规划 原题可转换为求得在n本书中删除书的总金额在(书的总价-包邮满减值 = x)中最大的

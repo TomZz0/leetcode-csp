@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * @author wzh
  * @date 2023年08月28日 18:30
- * Description:
+ * Description:矩阵处理
  */
 public class csp202305_2 {
     public static void main(String[] args) {

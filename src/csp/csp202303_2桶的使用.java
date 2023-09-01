@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @date 2023年08月28日 19:58
  * Description: 用桶来解决问题 从用时最高的向前逐步处理
  */
-public class csp202303_2 {
+public class csp202303_2桶的使用 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
